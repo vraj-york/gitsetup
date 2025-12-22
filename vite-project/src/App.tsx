@@ -25,6 +25,8 @@ function App() {
             <ProfileForm />
           </div> */}
           {/* <Parent /> */}
+
+          
           <HeavyCalculations />
         </div>
       </ThemeProvider>
